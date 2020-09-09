@@ -1,3 +1,6 @@
+# File containing user's moss submission id
+moss_id.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

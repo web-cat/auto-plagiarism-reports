@@ -1,0 +1,3 @@
+[submodule "mosspy"]
+	path = mosspy
+	url = https://github.com/soachishti/moss.py
